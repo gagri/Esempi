@@ -4,8 +4,10 @@ public class BugEvolutionExample {
 
 	public void bar(){
 		//print report
-		if(report==null){
+		if(report==null)
+		{
 			System.out.println(report);
+			
 		}
 	}
 
