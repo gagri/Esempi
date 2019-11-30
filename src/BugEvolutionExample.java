@@ -2,7 +2,7 @@ public class BugEvolutionExample {
 	
 	private String report;
 
-	public void bar(){
+	public void foo(){
 		//print report
 		if(report==null)
 		{
