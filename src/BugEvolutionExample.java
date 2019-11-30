@@ -4,7 +4,7 @@ public class BugEvolutionExample {
 
 	public void foo(){
 		//print report
-		if(report==null)
+		if(report!=null)
 		{
 			System.out.println(report);
 			
