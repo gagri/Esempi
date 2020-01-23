@@ -4,7 +4,7 @@ public class ProvaBlame {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.err.println("hello");
-
+		System.out.println();
 	}
 
 }
