@@ -6,7 +6,6 @@ public class ProvaPerDiff {
 		String a="CIAO";
 		if(a!=null)
 			System.out.println(a);
-		
 	}
 
 }
