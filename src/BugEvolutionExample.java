@@ -1,4 +1,4 @@
-public class BugEvolutionExample {
+public class BgEvolutionExample {
 	
 	private String report;
 
