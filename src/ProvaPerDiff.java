@@ -5,6 +5,8 @@ public class ProvaPerDiff {
 		// TODO Auto-generated method stub
 		String a="CIAO";
 		
+		System.out.println("");
+		System.out.println("");
 	}
 
 }
