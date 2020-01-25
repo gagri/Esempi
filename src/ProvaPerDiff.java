@@ -9,6 +9,9 @@ public class ProvaPerDiff {
 			System.out.println("a");
 			System.out.println("a");
 			System.out.println();
+			System.out.println("");
+			int b=3;
+			int c=5;
 	}
 
 }
