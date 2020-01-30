@@ -9,6 +9,7 @@ public class PerTestPDT {
 			array[i]=i+1;
 		}
 		System.out.println("ok");
+		if(ok)
 		System.out.println(array);
 
 	}
