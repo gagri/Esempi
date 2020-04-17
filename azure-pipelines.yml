@@ -24,3 +24,7 @@ steps:
     organization: 'gaiadue'
     scannerMode: 'MSBuild'
     projectKey: 'gaiadue'
+
+- task: SonarCloudPublish@1
+  inputs: 
+    pollingTimeoutSec: '300'
